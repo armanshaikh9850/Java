@@ -5,7 +5,7 @@ public class Fact {
         try(Scanner sc = new Scanner(System.in)) // Scanner Syntax.
         {
             System.out.print("Enter a Number : ");
-            int n = sc.nextInt(); // Converting the data type from default string to integer. 
+            int n = sc.nextInt(); // Converting the data type from default string to integer.
             int fact=1;
             for(int i=2;i<=n;i++)
             {
