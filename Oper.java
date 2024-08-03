@@ -22,6 +22,6 @@ public class Oper
         System.out.println("Answer || : "+(a > 6 || b < 10)); // Using  Bitwise Operator ||
         System.out.println("Answer ! : "+!(a > 5 || b < 1)); // Using  Bitwise Operator !
         System.out.println("Answer ++ : "+ ++a); // Using Increment Operator
-        System.out.println("Answer ++ : "+ --b); // Using Decrement Operator
+        System.out.println("Answer ++ : "+ --b); // Using Decrement Operator 
     }
 }
