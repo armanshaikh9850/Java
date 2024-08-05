@@ -11,7 +11,7 @@ public class Fib {
             // Calculate Next Number as Sum of Previous Two
             c = prev + curr;
 
-            // Update Previous Two Numbers for Next Iteration
+            // Update Previous Two Numbers for Next Iteration.
             prev = curr;
             curr = c;
 
